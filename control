@@ -1,0 +1,10 @@
+Package: com.dell.aboutdevice
+Name: AboutDevice
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: GET infomation device
+Maintainer: Dell
+Author: Dell
+Section: System
+Tag: role::Luvian
